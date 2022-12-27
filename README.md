@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Kipkemboi</h1>
-<h3 align="center">A passionate fullstack from Kenya</h3>
+<h3 align="center">A passionate fullstack DEveloper from Kenya</h3>
 <img align = “right” width = “400”src="https://img.freepik.com/free-vector/programmers-using-javascript-programming-language-computer-tiny-people-javascript-language-javascript-engine-js-web-development-concept-bright-vibrant-violet-isolated-illustration_335657-986.jpg?w=1380&t=st=1672126887~exp=1672127487~hmac=68c7df725b246b919daab7ca269cc7013204914b3a1f0d3fb59f8905ed1b3b6e”>
 
 
