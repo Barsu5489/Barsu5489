@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **REACT**
 
-- 💬 Ask me about **REACT, ,ejs, javascript, HTML/CSS, DevOPs and C low-level**
+- 💬 Ask me about **REACT, ejs, javascript, HTML/CSS, DevOPs and C low-level**
 
 - 📫 How to reach me **ebarsulai@gmail.com**
 
