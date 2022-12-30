@@ -16,8 +16,8 @@
 - 📫 How to reach me **ebarsulai@gmail.com**
 
 <h3 align="left">Connect with me: ebarsulai@gmail.com</h3>
-<p align="right">
-               <img align="right" src="https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y29kaW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="barsu5489" />
+<p align="left">
+               
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
