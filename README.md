@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [cryptocurrency Application](https://barsu5489.github.io/Crypto/)
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **RUBY**
 
 - 💬 Ask me about **REACT, ejs, javascript, HTML/CSS, DevOPs and C low-level**
 
