@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **RUBY**
 
-- 💬 Ask me about **REACT, ejs, javascript, HTML/CSS, DevOPs and C low-level**
+- 💬 Ask me about **Ruby, Javascript/ejs, REACT, DevOPs, C low-leve and lHTML/CSS **
 
 - 📫 How to reach me **ebarsulai@gmail.com**
 
