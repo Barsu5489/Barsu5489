@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Emmanuel Kipkemboi</h1>
-<h3 align="center">A passionate fullstack Developer from Kenya</h3>
+<h1 align="center">Hi 👋, I'm Emmanuel Barsulai</h1>
+<h3 align="center">ReactRails</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barsu5489&label=Profile%20views&color=0e75b6&style=flat" alt="barsu5489" /> </p>
 
@@ -11,11 +11,11 @@
 
 - 👨‍💻 All of my projects are available at [https://se-n-portfolio.vercel.app/](https://se-n-portfolio.vercel.app/)
 
-- 💬 Ask me about **Ruby,Javascript, DevOps**
+- 💬 Ask me about **Ruby on Rails,Javascript,React, DevOps**
 
 - 📫 How to reach me **ebarsulai@gmail.com**
 
-- ⚡ Fun fact **Chilled and laid back**
+- ⚡ Fun fact **I am chilled and laid back**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
