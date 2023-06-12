@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Barsulai</h1>
-<h3 align="center">ReactRails</h3>
+<h3 align="center">ReactRails Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barsu5489&label=Profile%20views&color=0e75b6&style=flat" alt="barsu5489" /> </p>
 
@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on [connect](https://service-connect-smmw.vercel.app/)
 
-- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://se-n-portfolio.vercel.app/](https://se-n-portfolio.vercel.app/)
 
