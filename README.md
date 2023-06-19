@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **ebarsulai@gmail.com**
 
-- ⚡ Fun fact **I am chilled and laid back**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
