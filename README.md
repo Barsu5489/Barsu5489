@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barsu5489" alt="barsu5489" /></a> </p>
 
-- 🔭 I’m currently working on [connect](https://service-connect-smmw.vercel.app/)
-
-
-- 👨‍💻 All of my projects are available at [https://se-n-portfolio.vercel.app/](https://se-n-portfolio.vercel.app/)
 
 - 💬 Ask me about **Ruby on Rails,Javascript,React, DevOps**
 
