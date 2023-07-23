@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barsu5489" alt="barsu5489" /></a> </p>
 
-
+- <p align="left"> <a href="https://thriving-pudding-f60903.netlify.app/"></a> </p>
 - 💬 Ask me about **Ruby on Rails,Javascript,React, DevOps**
 
 - 📫 How to reach me **ebarsulai@gmail.com**
 
 
-<h3 align="left">Portfolio: https://thriving-pudding-
+
 f60903.netlify.app/ </h3>
 <p align="left">
 </p>
