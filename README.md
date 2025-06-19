@@ -75,26 +75,6 @@ Hi there! I'm **Emmanuel Barsulai**, a passionate **Full-Stack Developer** speci
 - 🔧 Exploring **microservices architecture** and **containerization**
 - 📱 Learning **React Native** for mobile development
 
-## 🌟 Featured Projects
-
-### 🔹 Real-time Messaging App
-**Tech Stack**: Go, Next.js, WebSocket, SQLite, Docker
-- Built a full-stack messaging application with private and group chat functionality
-- Implemented real-time communication using WebSocket connections
-- Features user authentication, notifications, and responsive UI
-
-### 🔹 E-commerce Platform
-**Tech Stack**: Ruby on Rails, React, PostgreSQL, Stripe API
-- Developed a complete e-commerce solution with payment processing
-- Implemented user management, product catalog, and order tracking
-- Integrated third-party APIs for payments and shipping
-
-### 🔹 Task Management System
-**Tech Stack**: Node.js, Express, React, MongoDB, JWT
-- Created a collaborative project management tool
-- Features real-time updates, role-based permissions, and file uploads
-- Deployed using Docker containers on AWS
-
 ## 📫 Let's Connect!
 
 <p align="left">
