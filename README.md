@@ -22,24 +22,6 @@ Hi there! I'm **Emmanuel Barsulai**, a passionate **Full-Stack Developer** speci
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-### 🗄️ Databases & Storage
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</p>
-
 ### 🔧 Tools & Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -57,23 +39,6 @@ Hi there! I'm **Emmanuel Barsulai**, a passionate **Full-Stack Developer** speci
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
   <img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white" />
 </p>
-
-## 🎯 What I Do
-
-- 🔨 **Backend Architecture**: Building scalable APIs with Go, Rails, and Node.js
-- ⚛️ **Frontend Development**: Creating responsive UIs with React and modern JavaScript
-- 🗄️ **Database Design**: Optimizing data structures and queries for performance
-- 🔄 **Full-Stack Integration**: Seamlessly connecting frontend and backend systems
-- 🚀 **DevOps & Deployment**: Containerizing applications and managing cloud infrastructure
-- 🔐 **Security**: Implementing authentication, authorization, and secure coding practices
-
-## 🔥 Current Focus
-
-- 🌟 Building modern web applications with **React** and **Next.js**
-- 🚀 Developing high-performance APIs with **Go** and **Gorilla Mux**
-- 💎 Creating elegant web solutions with **Ruby on Rails**
-- 🔧 Exploring **microservices architecture** and **containerization**
-- 📱 Learning **React Native** for mobile development
 
 ## 📫 Let's Connect!
 
@@ -97,11 +62,3 @@ Hi there! I'm **Emmanuel Barsulai**, a passionate **Full-Stack Developer** speci
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=emmanuelbarsulai&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
-
-<div align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-</div>
-
----
-
-⭐ **Fun Fact**: I believe the best code is not just functional, but also readable, maintainable, and elegant. Always striving to write code that tells a story!
