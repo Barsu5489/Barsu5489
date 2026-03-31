@@ -22,7 +22,7 @@
 
 ---
 
-My name is Emmanuel Barsu. I'm a full-stack developer based in Nairobi, Kenya.
+My name is Emmanuel Barsulai. I'm a full-stack developer based in Nairobi, Kenya.
 
 The tools I love working with are:
 
