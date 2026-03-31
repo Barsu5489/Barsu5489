@@ -1,64 +1,56 @@
-# 🚀 Welcome to My GitHub Profile!
+<div align="center">
 
-Hi there! I'm **Emmanuel Barsulai**, a passionate **Full-Stack Developer** specializing in modern web technologies and scalable applications. I love building robust backend systems, crafting intuitive user interfaces, and creating seamless full-stack experiences.
+<pre>
+███████╗███╗░░░███╗███╗░░░███╗░█████╗░███╗░░██╗██╗░░░██╗███████╗██╗░░░░░
+██╔════╝████╗░████║████╗░████║██╔══██╗████╗░██║██║░░░██║██╔════╝██║░░░░░
+█████╗░░██╔████╔██║██╔████╔██║███████║██╔██╗██║██║░░░██║█████╗░░██║░░░░░
+██╔══╝░░██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║╚████║██║░░░██║██╔══╝░░██║░░░░░
+███████╗██║░╚═╝░██║██║░╚═╝░██║██║░░██║██║░╚███║╚██████╔╝███████╗███████╗
+╚══════╝╚═╝░░░░░╚═╝╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝░╚═════╝░╚══════╝╚══════╝
 
-## 🛠️ Tech Stack
+██████╗░░█████╗░██████╗░░██████╗██╗░░░██╗
+██╔══██╗██╔══██╗██╔══██╗██╔════╝██║░░░██║
+██████╦╝███████║██████╔╝╚█████╗░██║░░░██║
+██╔══██╗██╔══██║██╔══██╗░╚═══██╗██║░░░██║
+██████╦╝██║░░██║██║░░██║██████╔╝╚██████╔╝
+╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░░╚═════╝░
+</pre>
 
-### 🔹 Backend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=6E6E6E&center=true&vCenter=true&width=435&lines=Rails+when+it+needs+to+be+elegant;Go+when+it+needs+to+be+fast;React+when+it+needs+to+look+good;Node.js+when+it+needs+to+scale)](https://git.io/typing-svg)
 
-### ⚛️ Frontend Development
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
+</div>
 
-### 🔧 Tools & Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
-</p>
+---
 
-### 🌐 Web Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=oauth&logoColor=white" />
-</p>
+My name is Emmanuel Barsu. I'm a full-stack developer based in Nairobi, Kenya.
 
-## 📫 Let's Connect!
+The tools I love working with are:
 
-<p align="left">
-  <a href="https://linkedin.com/in/emmanuelbarsulai">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/emmanuelbarsulai">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:emmanuel.barsulai@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://emmanuelbarsulai.dev">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+- **Ruby on Rails** — my home base for building fast, clean web apps
+- **Hotwire** (Turbo + Stimulus) for real-time interfaces without the JS overhead
+- **Go** when something needs to be genuinely fast
+- **Node.js + React** when the frontend needs to own its complexity
+
+I care about boring technology that works, clean APIs, and server-rendered HTML that feels instant.
+
+---
+
+### Open Source
+
+A few things I've contributed to or built in the open:
+
+<!-- add your repos here -->
+- [`Ruby for good`](https://github.com/rubyforgood/)
+
+---
+
+### Reach
+[Email](ebarsulai@gmail.com)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=emmanuelbarsulai&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=emmanuelbarsulai&color=6E6E6E&style=flat-square&label=profile+views)
+
 </div>
